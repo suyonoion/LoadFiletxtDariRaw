@@ -1,0 +1,2 @@
+Contoh Load file.txt dari folder raw, menyimpannya kedalam String.
+dan menaruhnya di TextView.
